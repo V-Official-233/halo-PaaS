@@ -14,7 +14,7 @@
 新建一个 bash 项目，在控制台中输入以下代码后回车。（建议使用教育团队）
 
 ```
-curl -fsSL "https://raw.githubusercontent.com/V-Official-233/halo-PaaS/main/Replit-install.sh | bash -s install"
+curl -fsSL "https://raw.githubusercontent.com/V-Official-233/halo-PaaS/main/Replit-install.sh " | bash -s install
 ```
   <details>
 
