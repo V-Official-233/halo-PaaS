@@ -1,20 +1,27 @@
 # halo-PaaS
 
-将 halo-2.x 博客部署在 raliway、Render、Replit等 平台
+将 halo-2.x 博客部署在 raliway、Render、Replit等PaaS平台
 
 
 ## 鸣谢
 [Halo [ˈheɪloʊ]](https://github.com/halo-dev/halo)
 
-## 如何使用？：
 
-新建一个 bash 项目，在控制台中输入以下代码后回车。Replit 最好是使用教育团队！
+## 部署
+  <details>
+<summary><b>Replit平台部署方法</b></summary>
+
+新建一个 bash 项目，在控制台中输入以下代码后回车。（建议使用教育团队）
 
 ```
-curl -fsSL "https://raw.githubusercontent.com/V-Official-233/halo-PaaS/main/install.sh" | bash -s install
+curl -fsSL "https://raw.githubusercontent.com/V-Official-233/halo-PaaS/main/Replit-install.sh"
 ```
+  <details>
 
-
+    
+    
+    
+    
 ## 您需要添加以下环境变量
 
 ```
